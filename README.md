@@ -64,3 +64,19 @@ Rock-Paper-Scissors/
 ## 🙋‍♀️ Author
 
 **Anupama Sharma** 
+MCA Student   
+
+---
+
+## 📌 Future Improvements
+
+- Sound effects
+- Restart / Reset button
+- Best of 5 or Best of 10 mode
+- Mobile-friendly animations
+
+---
+
+## ⭐ Support
+
+If you like this project, don’t forget to give it a ⭐ on GitHub!
